@@ -74,6 +74,10 @@ namespace UsandoSwitchCase
                    Console.WriteLine("Esse mês tem 31 dias!");
                    break;
 
+                   default:
+                    Console.WriteLine("Esse mês tem 30 dias");
+                    break;
+
                 }
 
              
