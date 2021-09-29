@@ -1,0 +1,16 @@
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasSwitchCase\UsandoSwitchCase\obj\Debug\net5.0\UsandoSwitchCase.csproj.AssemblyReference.cache
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasSwitchCase\UsandoSwitchCase\obj\Debug\net5.0\UsandoSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasSwitchCase\UsandoSwitchCase\obj\Debug\net5.0\UsandoSwitchCase.AssemblyInfoInputs.cache
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasSwitchCase\UsandoSwitchCase\obj\Debug\net5.0\UsandoSwitchCase.AssemblyInfo.cs
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasSwitchCase\UsandoSwitchCase\obj\Debug\net5.0\UsandoSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasSwitchCase\UsandoSwitchCase\bin\Debug\net5.0\UsandoSwitchCase.exe
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasSwitchCase\UsandoSwitchCase\bin\Debug\net5.0\UsandoSwitchCase.deps.json
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasSwitchCase\UsandoSwitchCase\bin\Debug\net5.0\UsandoSwitchCase.runtimeconfig.json
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasSwitchCase\UsandoSwitchCase\bin\Debug\net5.0\UsandoSwitchCase.runtimeconfig.dev.json
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasSwitchCase\UsandoSwitchCase\bin\Debug\net5.0\UsandoSwitchCase.dll
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasSwitchCase\UsandoSwitchCase\bin\Debug\net5.0\ref\UsandoSwitchCase.dll
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasSwitchCase\UsandoSwitchCase\bin\Debug\net5.0\UsandoSwitchCase.pdb
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasSwitchCase\UsandoSwitchCase\obj\Debug\net5.0\UsandoSwitchCase.dll
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasSwitchCase\UsandoSwitchCase\obj\Debug\net5.0\ref\UsandoSwitchCase.dll
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasSwitchCase\UsandoSwitchCase\obj\Debug\net5.0\UsandoSwitchCase.pdb
+C:\Users\Use\Documents\projetos\ams\1ano\Semestre2\EstruturasSwitchCase\UsandoSwitchCase\obj\Debug\net5.0\UsandoSwitchCase.genruntimeconfig.cache
